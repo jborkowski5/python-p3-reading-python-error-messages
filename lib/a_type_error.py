@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 'defg'
+wrong_type = 5 + 5
